@@ -10,6 +10,7 @@ https://movierecommender28.streamlit.app/
 
 ---
 ![Home](Screenshot1.png)
+![Home](Screenshot2.png)
 
 ## 📌 Features
 
